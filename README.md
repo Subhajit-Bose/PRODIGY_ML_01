@@ -11,27 +11,9 @@ Make sure you have the following libraries installed:
 - numpy
 - scikit-learn
 
-You can install these libraries using pip:
-```
-pip install pandas matplotlib seaborn numpy scikit-learn
-```
 
-## Usage
-1. Clone the repository to your local machine:
-```
-git clone https://github.com/your_username/housing-price-prediction.git
-```
 
-2. Navigate to the repository directory:
-```
-cd housing-price-prediction
-```
-
-3. Download the dataset (`train.csv`) and place it in the repository directory.
-4. Run the Python script:
-```
-python housing_price_prediction.py
-```
+## Function
 
 The script will perform the following steps:
 - Load the dataset (`train.csv`) into a pandas DataFrame.
